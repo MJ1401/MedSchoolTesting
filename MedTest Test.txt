@@ -1,0 +1,3 @@
+DLBCL: BCL-6, Extranodal spread, Rituximab helps treat, Male disposition, late adulthood
+CLL: Smudge cells, Hepatosplenomegaly, Increased risk of ITP, increased risk of AIHA
+NLPHL: Not EBV Associated, B-Raf, Minimal lymphadenopathy
